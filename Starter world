@@ -1,0 +1,51 @@
+Dear Copilot, 
+earlier today i got 2 prompts in before you requested me to upgrade, you dind't even finish the second prompt.
+This made me annoyed because i waited 5 hours for you to be able to code and you dind't even code. To fix this, this text is dedicated to making sure you don't hit your limit too fast.
+First of all, every time I ask you to do a task that is not coding, look at what I am asking you to do, decide if you can break it down into smaller tasks to not hit your limit and report back to me.
+Also, if the task requires multiple things, list them in order in your internal code so you know what to do first if you are close to your limit. The list should go like this:
+1. Code (Major)
+2. Code (Minor)
+3. Building (Major eg. a map or an 'improve this' prompt)
+4. Building (Minor eg. a worn path)
+5. Gui (Major)
+6. Gui (Minor)
+7. Music (Major eg. the music that will be playing)
+8. Music (Minor eg. sound effects)
+9. VFX (Major)
+10. VFX (Minor)
+and so on... This document is mainly for the starter world, the one we have been working on. At time of writing this document, it has 1 'lake', 2 shops, 2 shopkeepers and 3 rods.
+This will be the world that players start on before they go into the real game. As it is a 'mix' of 99 nights and fisch, multiple elements of both games must be incorperated.
+The next few lines are going to be what looks good, what i would like to happen and what needs to happen. Forgegui can still be used for music and everything else, do not count that out of the question.
+
+Scripting (Major)
+- Nothing for now, we are building the map first and making sure that it looks good
+- One thing that you could do is make files for everything and stick to those files
+
+Scripting (Minor)
+- Again nothing
+
+Building (Major)
+- it is a good greybox to be honest, as the best ai out there, you have done a good job. Some things need to be done though:
+The huts need to be fixed, one looks good and the other looks really bad, there also needs to be a crafter hut that has another shopkeeper.
+The shopkeepers need to be good! not just a model, i have imported myself as one of them but the other 2 need to be other characters
+The terrain should also be good, maybe a lighthouse on the top of a hill somewhere, which brings me to my next point.
+As this is a combo of fisch (a fishing game) and 99 nights (I will explain the 99 nights part later) the starter island should not be mountains, but more maybe a solo island, far far away.
+Maybe add some like other stuff that is not major but looks nice yk?
+
+Building (Minor)
+Most of the stuff on this list will br as a sub result from the major stuff.
+One of the things i want is worn paths, like minecraft paths if you click it with a shovel
+The jetty should be good and not just a box at the end where you can fish off it, the entire jetty needs to be able to fish from.
+The water looks too robloxy, take a look at the fisch water and try to make it similar to that.
+There should be leaves lying around under the trees and differ up the tree varients from just the normal tree. 
+The grass should be not everywhere, in some places sure but not everywhere, it gives less of a feel and more of just placed terrain.
+
+Gui (Major)
+oh boy, there is a lot to get through here but let me keep it short.
+GUI is like key for a good game, if it looks bad then no one will play, i'm still deciding on a style for my game but i know i want it to be somehwat mystical.
+The gui for the shops is like super important, each rod needs to have a logo, boarder around it, text for name of the rod, stats and how much it costs, again in a similar style of fisch.
+The gui for catching a fish is also huge, have you never played fisch? (well of course not but you get the point look at youtube if you really don't know), the better the rods get, the cooler the gui and vfx are when they catch it.
+Also like there should be billboard guis for the shops, not the tile of the shop on the model because then players do not know where to go.
+
+so yea, this is the draft :) have fun and please do not run out in 10 mins this time
+- Nick
